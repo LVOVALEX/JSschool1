@@ -1,0 +1,19 @@
+.js {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 10px solid green;
+  padding: 50px 200px 50px 200px;
+  background-color: greenyellow;
+  margin: 0 auto;
+  width: 300px;
+  height: 500px;
+}
+
+.title {
+  font-size: 100px;
+  font-weight: 1000px;
+  line-height: 1.2;
+  color: rebeccapurple;
+  text-align: center;
+}
